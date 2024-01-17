@@ -1,8 +1,8 @@
-import WeatherApp from "./WeatherApp";
+import PokemonViewer from "./PokemonViewer";
 const App = (props) => {
   return (
     <div>
-      <WeatherApp />
+      <PokemonViewer />
     </div>
   );
 };
